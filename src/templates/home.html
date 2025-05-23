@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../static/css/home.css">
+</head>
+<body>
+    <div id="container">
+        <div id="result">
+            <div id="result_content" class="styled-summary">
+                
+            </div>
+        </div>
+        <div id="input">
+            <div id="input_box" class="input_boxes">
+                <div class="input_boxes_inner url_box">
+                <input type="text" id="get_input" placeholder="Enter URL here">
+                <button id="input_box_submit">Submit</button>
+                </div>
+                <div class="input_boxes_inner htmltype_box">
+                    <select name="html_type" id="html_type">
+                        <option value="Real Estate">Real Estate</option>
+                        <option value="Broad band">Broad band</option>
+                        <option value="Others">Others</option>
+                    </select>
+                </div>
+                <div class="input_boxes_inner download_box">
+                    <button id="html_download" class="box_button">Download</button>
+                </div>
+                <div class="input_boxes_inner parsing_box">
+                    <button class="box_button" id="parsing">Parsing</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="loader-wrapper">
+  <div class="loader" id="load"></div>
+</div>
+</body>
+
+<script src="../static/js/home.js"></script>
+</html>

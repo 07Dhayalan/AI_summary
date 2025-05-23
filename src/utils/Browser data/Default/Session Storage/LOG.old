@@ -1,0 +1,16 @@
+2025/05/23-17:20:26.886 29cc Reusing MANIFEST D:\Frame_work\Flask\AI_Summarization\src\utils\Browser data\Default\Session Storage/MANIFEST-000001
+2025/05/23-17:20:26.888 29cc Recovering log #126
+2025/05/23-17:20:26.889 29cc Level-0 table #128: started
+2025/05/23-17:20:26.913 29cc Level-0 table #128: 30559 bytes OK
+2025/05/23-17:20:26.914 29cc Recovering log #127
+2025/05/23-17:20:26.919 29cc Reusing old log D:\Frame_work\Flask\AI_Summarization\src\utils\Browser data\Default\Session Storage/000127.log 
+2025/05/23-17:20:26.921 29cc Delete type=0 #126
+2025/05/23-17:20:26.922 77d0 Compacting 4@0 + 1@1 files
+2025/05/23-17:20:26.940 77d0 Generated table #129@0: 385 keys, 36267 bytes
+2025/05/23-17:20:26.940 77d0 Compacted 4@0 + 1@1 files => 36267 bytes
+2025/05/23-17:20:26.943 77d0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/23-17:20:26.947 77d0 Delete type=2 #118
+2025/05/23-17:20:26.947 77d0 Delete type=2 #120
+2025/05/23-17:20:26.947 77d0 Delete type=2 #123
+2025/05/23-17:20:26.948 77d0 Delete type=2 #126
+2025/05/23-17:20:26.948 77d0 Delete type=2 #128
